@@ -157,7 +157,7 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    -webkit-text-stroke: 1px black;
+    color: #c5d3d9;
 }
 
 @media(min-width:767px) {
@@ -257,7 +257,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/Hipster_plants_snippet.jpg) no-repeat center center scroll;
     background-color: #008b8b;
     -webkit-background-size: cover;
     -moz-background-size: cover;
