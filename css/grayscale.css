@@ -157,7 +157,6 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    color: #736f68;
 }
 
 @media(min-width:767px) {
@@ -305,7 +304,7 @@ a:focus {
 .btn-default:focus {
     border: 1px solid #FF5819;
     outline: 0;
-    color: #000;
+    color: transparent;
     background-color: #FF5819;
 }
 
@@ -365,4 +364,11 @@ body {
 
 #picture {
     float: left;
+}
+
+#transparentbox {
+    opacity: 0.5;
+    background: #008b8b;
+    height: 4em;
+    width: 500px;
 }
