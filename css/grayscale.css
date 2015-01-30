@@ -364,15 +364,22 @@ body {
 
 #picture {
     float: left;
+    position: relative;
 }
 
 #next2pic {
     float:right;
+    position: relative;
+}
+
+#ontop {
+    position: relative;
+    top: 4.7em;
 }
 
 #transparentbox {
     opacity: 0.5;
     background: #008b8b;
-    height: 4em;
-    width: 500px;
+    height: 118px;
+    width: 710px;
 }
