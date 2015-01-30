@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #008B8B;
 }
 
 html {
@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #219ab3;
+    color: #FF5819;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -123,7 +123,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color:#008B8B;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -139,7 +139,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(../img/Hipster_flowers.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background-color: #008B8B;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -295,17 +295,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #219ab3;
-    color: #219ab3;
+    border: 1px solid #FF5819;
+    color: #FF5819;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #219ab3;
+    border: 1px solid #FF5819;
     outline: 0;
     color: #000;
-    background-color: #219ab3;
+    background-color: #FF5819;
 }
 
 ul.banner-social-buttons {
