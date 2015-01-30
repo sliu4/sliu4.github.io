@@ -369,7 +369,7 @@ body {
 }
 
 #next2pic {
-    float:right;
+    margin-left: 620px;
     position: relative;
     width: 50%;
 }
@@ -378,7 +378,9 @@ body {
     opacity: 0.5;
     background: #008b8b;
     height: 118px;
-    width: 710px;
+    width: 720px;
     position: relative;
-    top: -4.7em;
+    top: -6em;
+    margin: 0 auto;
+    z-index: -1;
 }
