@@ -365,16 +365,13 @@ body {
 #picture {
     float: left;
     position: relative;
+    width: 50%;
 }
 
 #next2pic {
     float:right;
     position: relative;
-}
-
-#ontop {
-    position: relative;
-    top: 4.7em;
+    width: 50%;
 }
 
 #transparentbox {
@@ -382,4 +379,6 @@ body {
     background: #008b8b;
     height: 118px;
     width: 710px;
+    position: relative;
+    top: -4.7em;
 }
