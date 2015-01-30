@@ -157,7 +157,7 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    color: #c5d3d9;
+    color: #736f68;
 }
 
 @media(min-width:767px) {
@@ -361,4 +361,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#picture {
+    float: left;
 }
