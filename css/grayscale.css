@@ -366,6 +366,10 @@ body {
     float: left;
 }
 
+#next2pic {
+    float:right;
+}
+
 #transparentbox {
     opacity: 0.5;
     background: #008b8b;
