@@ -366,18 +366,18 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-#adjacent {
+/*#adjacent {*/
     /*float: right;*/
     /*position: relative;*/
     /*width: 50%;*/
-    display: inline-block;
-}
+    /*display: inline-block;*/
+/*}*/
 
-#adjacent2 {
+/*#adjacent2 {*/
     /*margin-right: 500px;*/
-    display: inline;
+    /*display: inline;*/
     /*width: 50%;*/
-}
+/*}*/
 
 /*#adjacent3 {*/
     /*display: inline-block;*/
