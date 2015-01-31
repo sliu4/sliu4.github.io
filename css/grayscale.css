@@ -369,16 +369,20 @@ body {
 #adjacent {
     /*float: right;*/
     /*position: relative;*/
-    width: 50%;
+    /*width: 50%;*/
     display: inline-block;
 }
 
 #adjacent2 {
-    /*float: left;*/
-    display: inline-block;
-    width: 50%;
+    /*margin-right: 500px;*/
+    display: inline;
+    /*width: 50%;*/
 }
 
+/*#adjacent3 {*/
+    /*display: inline-block;*/
+    /*width: 50%;*/
+}
 #transparentbox {
     opacity: 0.5;
     background: #008b8b;
