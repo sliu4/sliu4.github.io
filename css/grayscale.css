@@ -157,6 +157,10 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+/*    background: rgba(255,255,255,0.2);
+    padding: 2%;*/
+/*    margin: auto;*/
+    /*/width: 20em/*/
 }
 
 @media(min-width:767px) {
@@ -304,7 +308,7 @@ a:focus {
 .btn-default:focus {
     border: 1px solid #FF5819;
     outline: 0;
-    color: transparent;
+    color: #008b8b;
     background-color: #FF5819;
 }
 
@@ -370,6 +374,7 @@ body {
 
 #next2pic {
     margin-left: 620px;
+    margin-bottom: 300px;
     position: relative;
     width: 50%;
 }
@@ -377,7 +382,7 @@ body {
 #transparentbox {
     opacity: 0.5;
     background: #008b8b;
-    height: 118px;
+    height: 120px;
     width: 720px;
     position: relative;
     top: -6em;
