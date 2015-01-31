@@ -367,15 +367,16 @@ body {
 }
 
 #adjacent {
-    float: right;
+    /*float: right;*/
     /*position: relative;*/
-    /*width: 50%;*/
+    width: 50%;
     display: inline-block;
 }
 
 #adjacent2 {
-    float: left;
+    /*float: left;*/
     display: inline-block;
+    width: 50%;
 }
 
 #transparentbox {
