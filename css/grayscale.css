@@ -157,10 +157,6 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-/*    background: rgba(255,255,255,0.2);
-    padding: 2%;*/
-/*    margin: auto;*/
-    /*/width: 20em/*/
 }
 
 @media(min-width:767px) {
@@ -392,4 +388,10 @@ body {
     top: -6em;
     margin: 0 auto;
     z-index: -1;
+}
+
+.bluebox {
+    background: rgba(0,0,0,0.1);
+    padding: 7%;
+    margin: auto;
 }
