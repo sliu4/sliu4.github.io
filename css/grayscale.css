@@ -395,3 +395,8 @@ body {
     padding: 7%;
     margin: auto;
 }
+
+#mypic {
+    margin-right: -30px;
+    margin-top: -15px;
+}
